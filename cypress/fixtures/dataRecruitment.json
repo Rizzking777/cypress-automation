@@ -1,0 +1,17 @@
+{
+    "candidateName": {
+        "input": "Peter",
+        "expected": "Peter Smith"
+    },
+    "vacancy": "Payroll Administrator",
+    "status": "Application Initiated",
+    "specialCharacter": "@#$%^&*asdasd",
+    "invalidDateRange": {
+        "from": "2026-09-08",
+        "to": "2026-01-08"
+    },
+    "noResultCombination": {
+        "vacancy": "Senior QA Lead",
+        "status": "Interview Passed"
+    }
+}

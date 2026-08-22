@@ -1,0 +1,20 @@
+{
+    "searchEmployee": {
+        "input": "Peter",
+        "expected": "Peter Mac Anderson"
+    },
+    "jobTitle": "Chief Financial Officer",
+    "location": "New York Sales Office",
+    "combination": {
+        "employeeNameInput": "Peter",
+        "employeeName": "Peter Mac Anderson",
+        "jobTitle": "Chief Financial Officer",
+        "location": "New York Sales Office"
+    },
+    "specialCharacter": "@#$%^&*####",
+    "noResultCombination": {
+        "jobTitle": "Chief Financial Officer",
+        "location": "Canadian Regional HQ"
+    },
+    "resetAfterNoResult": "Rizki Zakaria"
+}

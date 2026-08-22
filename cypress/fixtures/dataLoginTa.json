@@ -1,0 +1,33 @@
+{
+    "loginValid": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+    "usernameInvalid": {
+        "username": "Testtest",
+        "password": "admin123"
+    },
+    "passwordInvalid": {
+        "username": "Admin",
+        "password": "admin123456"
+    },
+    "credentialsInvalid": {
+        "username": "Admin123",
+        "password": "Admin123456"
+    },
+    "usernameKosong": {
+        "username": "",
+        "password": "admin123"
+    },
+    "passwordKosong": {
+        "username": "Admin",
+        "password": ""
+    },
+    "credentialsKosong": {
+        "username": "",
+        "password": ""
+    },
+    "passwordMasked": {
+        "password": "admin123"
+    }
+}
